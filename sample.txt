@@ -1,0 +1,65 @@
+start sample
+
+int a, b, c;
+dec d, e;
+bool f, g;
+
+int ans;
+int num1;
+int num2;
+
+{.
+
+int sum(int num1,int num2)
+ {
+	ans = 0;
+	for (2x)
+	{
+		ans = num1 + num2;
+	};
+	return ans;
+ } 
+ 
+	 print("\nStart Sample.\n\n");
+	
+     a = 1;
+     d = 2.3;
+     e = 2.0;
+     e = d * e;
+     f = false;
+     g = true;
+     
+     a = 1 + 2;
+     b = a + 1;
+     c = b + a;
+     
+     if a == b , 
+	 {
+	 	print("a == b\n");
+	 }
+	 
+	 else { 
+	 	print("a =/= b\n");
+	 	b = 1 + b * 3 ;
+	 };
+	     
+     print("\nhello");
+     print("\na = %d , b = %d, c = %d\n", a, b, c);
+     print("d = %f, e = %f\n", d, e);
+     print("f = %b, g = %b\n", f, g);
+     
+     if "milk tea" is not "coffee" ,
+     {
+     	print("\nmilk tea is not coffee\n\n");
+     };
+     
+     for (3x) 
+     {
+     	print("peanut butter oreos\n");
+     };
+     
+     print("\nsum(a,b) = %d\n", sum(3,4));
+     
+     print("\nEnd Sample.");
+.}
+
