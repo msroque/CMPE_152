@@ -14,7 +14,6 @@ jobs:
 
       - name: Install and Build 🔧
         run: |
-          npm cache clean -f
           npm install
           npm run build
 
