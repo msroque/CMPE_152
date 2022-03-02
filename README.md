@@ -24,8 +24,10 @@ This is the final Project for the Complier Design class made in 2020. The projec
 3. Set C++ dialect to C++ 11, the library should include antlr4-runtime in the C++ linker
 4. Create the grammar file using antlr 4.8
 
-<img src="https://github.com/msroque/CMPE_152/blob/master/readme_images/external_tools_config.jpg" width=80% height=80% title="External Tools Configurations" />
-
+<p align="center" >
+   <img src="https://github.com/msroque/CMPE_152/blob/master/readme_images/external_tools_config.jpg" width=80% height=80% title="External Tools Configurations" />
+</p>
+   
 5. Compile the program in Eclipse
    1. In run configurations, provide a name
    2. Add your sample code filename in the arguments under program arguments
@@ -48,8 +50,10 @@ java -cp .:PascalRTL.jar [YourJasminFileName]
 
 #### Here is an example using this project's sample.j file
 
-<img src="https://github.com/msroque/CMPE_152/blob/master/readme_images/Screen%20Shot%202022-02-28%20at%201.32.46%20PM.png" width =80% height=80%
-     title="Terminal" />
+<p align="center" >
+   <img src="https://github.com/msroque/CMPE_152/blob/master/readme_images/Screen%20Shot%202022-02-28%20at%201.32.46%20PM.png" width =80% height=80%
+        title="Terminal" />
+</p>
 
 ## Credits
 Project was created for the Compiler Design course at San José State University. 
