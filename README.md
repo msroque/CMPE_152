@@ -10,7 +10,7 @@ This is the final Project for the Complier Design class made in 2020. The projec
 * Function Declarations
 * Function Returns
 
-### [ANTLR4 Grammar Library](https://msroque.github.io/CMPE_152/)
+### [ANTLR4 Grammar Library](https://msroque.github.io/cmpe152/)
 
 ## Getting Started
 ### Prerequisites
